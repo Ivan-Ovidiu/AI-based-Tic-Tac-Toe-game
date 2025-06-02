@@ -1,6 +1,7 @@
 # Tic-Tac-Toe AI Game
 
 A Tic-Tac-Toe game with artificial intelligence using Minimax and Alpha-Beta pruning algorithms.
+![image](https://github.com/user-attachments/assets/6ab30510-0ac0-42da-8b07-dbb93023dbc8)
 
 ## Features
 

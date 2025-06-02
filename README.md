@@ -59,8 +59,4 @@ NR_COLOANE = 3      # Board size (3x3)
 - `min_max()` - Minimax algorithm
 - `alpha_beta()` - Alpha-Beta algorithm with optimizations
 
-## Common Issues
 
-- **Missing images**: Put `ics.png` and `zero.png` in project folder
-- **Pygame not working**: Run `pip install pygame`
-- **AI too slow**: Decrease `ADANCIME_MAX` value
